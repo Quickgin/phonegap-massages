@@ -18,7 +18,7 @@
     </author>
 	
 	
-	
+<preference name='phonegap-version' value='cli-7.0.1' />	
 	<!-- required plugins go here -->
  <plugin name="cordova-plugin-dialogs"/>
  <plugin name="cordova-plugin-local-notification" version="0.8" />
